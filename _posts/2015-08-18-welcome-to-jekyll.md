@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title:  "박서연 바보♥!"
+title:  "{{ site.title }}"
 date:   2015-08-18 15:07:19
 categories: [tutorial]
 comments: true
