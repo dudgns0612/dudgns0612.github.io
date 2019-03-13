@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Hoon
+  name: hoon blog
   avatar: hoon-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Software Developer"
+  bio: "JAVA / WEB Developer"
   email:
   disqus-shortname:
   twitter: #username
