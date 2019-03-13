@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "박서연 바보♥!"
 date:   2015-08-18 15:07:19
 categories: [tutorial]
 comments: true
