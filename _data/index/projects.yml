@@ -11,6 +11,18 @@
             "디바이스와의 연계를 위한 게이트웨이와 서버간의 API 개발"
          ]
 
+- name: SK TANGO-D DW IDCUBE IPM Project
+  subName: SK C&C
+  startDate: 2018년 8월
+  endDate: 2018년 8월
+  summary: SK TANGO-D DW IDCUBE IPM 추가 프로젝트
+  os: Windows, Linux
+  softwareTechnology: "Java, SpringBoot, JPA, MariaDB, Node.js, Angular4, Svn Jenkins"
+  works: [
+            "Angular4를 통하여 IPM 인터페이스 개발",
+            "API 통신을 위한 프론트엔드 공통 모듈 개발",
+         ]
+
 - name: 2018 한강 자전거 한바퀴 대회
   subName: 서울에너지공단
   startDate: 2018년 6월
@@ -22,4 +34,48 @@
             "SpringBoot기반 웹 서비스 개발 및 인터페이스 개발",
             "오픈라이더를 활용한 참가자 위치기반 관제화면 개발",
             "참가자 수집데이터를 토대로 주행이력 관리 및 요청에 따라 대회 인증서발급 처리"
+         ]
+
+- name: 통합플랫폼 한국정보통신기술협회(TTA) 인증
+  subName: TTA(한국정보통신기술협회)
+  startDate: 2018년 2월
+  endDate: 2018년 6월
+  summary: 회사 통합플랫폼(CUBIC) 표준화를 위한 한국정보통신기술협회(TTA) 인증
+  os: Windows, Linux
+  softwareTechnology: "Java, SpringBoot, Mybatis, MariaDB, JSP, jQuery, Svn"
+  works: [
+            "SpringBoot기반 웹 서비스, 인터페이스 개발",
+            "인증에 필요한 기획, 설계 및 개발",
+            "센터 방범·방재·교통·시설물관리에 필요한 UI 및 관제화면 개발",
+            "웹 소켓을 통한 실시간 시설물 상황 제공 개발",
+            "시설물 연계 관련 전문 및 로그 관리 개발"
+         ]
+
+- name: 인천 SmartCity 도시민포털 유지보수 및 미단시티 추가사업
+  subName: 인천 SmartCity
+  startDate: 2017년 7월
+  endDate: 2018년 1월
+  summary: 인천 도시민정보제공 포털 미단시티 추가 및 NMS를 통한 시설물 데이터 관리와 <br /> 프로젝트
+           풀질 향상을 위한 웹 접근성 인증
+  os: Windows, Linux
+  softwareTechnology: "Java, SpringBoot, Mybatis, MariaDB, jQuery, Svn"
+  works: [
+            "Spring Framework 기반 웹 서비스, 인터페이스 개발 및 유지보수",
+            "다양한 공공API 연계를 통한 데이터 제공",
+            "프로젝트에 대한 품질인증을 위한 웹 접근성 인증",
+            "NMS를 통한 시설물 데이터 관리"
+         ]
+
+- name: 영종 U-City 사업 및 대전교통정보센터 유지보수
+  subName: 인천 SmartCity 및 대전광역시청
+  startDate: 2017년 1월
+  endDate: 2017년 6월
+  summary: 영종 U-City 통합플랫폼 시설물 연계 개발 및 대전교통정보센터 유지보수 및 웹접근성인증
+  os: Windows, Linux
+  softwareTechnology: "Java, Maven, Spring, Mybatis, MariaDB,, JSP, jQuery, Svn"
+  works: [
+            "Spring Framework 기반 웹 서비스, 인터페이스 개발 및 유지보수",
+            "지도 API를 통한 관제화면 개발",
+            "프로젝트에 대한 품질인증을 위한 웹 접근성 인증",
+            "시설물 인터페이스 연계 개발"
          ]
