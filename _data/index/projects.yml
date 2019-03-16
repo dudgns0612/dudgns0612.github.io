@@ -1,4 +1,25 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: Opticon Project ( 옵티콘 프로젝트 )
+  subName: 법무부
+  startDate: 2019년 1월
+  endDate: 현재
+  summary: 법무부 주관 전자발찌, 야간외출제한, 실내측위 등 통합 프로젝트
+  os: Windows, Linux
+  softwareTechnology: "Java, StringBoot, Maven, Mybatis, JPA, MariaDB, JSP, jQuery, Svn"
+  works: [
+            "SpringBoot기반 웹 서비스 개발 및 인터페이스 개발",
+            "Vworld를 사용한 OpenLayers 기반으로 관제화면 개발",
+            "디바이스와의 연계를 위한 게이트웨이와 서버간의 API 개발"
+         ]
+
+- name: 2018 한강 자전거 한바퀴 대회
+  subName: 서울에너지공단
+  startDate: 2018년 6월
+  endDate: 2018년 8월
+  summary: 8.15 광복절 기념 오픈라이더&서울에너지공단  한강 자전거 한바퀴 대회 프로젝트
+  os: Windows, Linux
+  softwareTechnology: "Java, Maven, SpringBoot, Mybatis, Mysql, JSP, JQuery, Git"
+  works: [
+            "SpringBoot기반 웹 서비스 개발 및 인터페이스 개발",
+            "오픈라이더를 활용한 참가자 위치기반 관제화면 개발",
+            "참가자 수집데이터를 토대로 주행이력 관리 및 요청에 따라 대회 인증서발급 처리"
+         ]
