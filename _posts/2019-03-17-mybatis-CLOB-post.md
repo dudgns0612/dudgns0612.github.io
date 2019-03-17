@@ -21,7 +21,7 @@ CLOB 타입을 String 형태로 지정하여 주기 위함이다.<br />
 </resultMap>
 {% endhighlight %}
 
-### Explanation
+### Description
 설명 :  resultMap을 만들고 사용할 id는 contents , 타입은 hashMap을 사용할것이고 <br />
 CLOB타입의 컬럼은 CONT라는 컬럼이며 jdbcType은 CLOB 이렇게 설정된 컬럼을 <br />
 String 타입으로 인지한다라고 볼 수 있다. <br />
