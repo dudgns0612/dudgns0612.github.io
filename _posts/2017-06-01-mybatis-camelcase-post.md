@@ -3,7 +3,8 @@ layout: post
 title: "[Mybatis] Mybatis를 이용한 Mapper 사용 시 CamelCase(카멜케이스)자동변환"
 excerpt: "Mybatis 사용 시 Mapper에서 변수명 자동 CamelCase변환 옵션주기."
 categories: [Mybatis]
-modified: 2019-03-17
+date: 2017-06-01
+modified: 2017-06-01
 comments: true
 ---
 
@@ -15,7 +16,7 @@ Mapper에서 Vo나 필요한 Map 클래스에 사용하기위해 CamelCase로 �
 
 ​Mybatis 사용 시 Mapper에서 변수명 자동 CamelCase변환 옵션주기.<br />
 
-{% highlight css %}
+{% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE configuration
 PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
