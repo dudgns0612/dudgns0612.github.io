@@ -11,12 +11,7 @@ comments: true
 children와 find의 기능은 자식을 검색 할 수 있도록 제공하는 함수이다.<br />
 하지만 두 함수는 서로 미묘 하지만 큰 차이가 존재한다.<br />
 
-
-
 ### Code Blocks
-
-​Mybatis 사용 시 Mapper에서 변수명 자동 CamelCase변환 옵션주기.<br />
-
 {% highlight html %}
 <div class="parent">
   <div class="child1">
