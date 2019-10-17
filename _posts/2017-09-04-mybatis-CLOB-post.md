@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Mybatis]Oracle CLOB 처리 ResultMap"
+title: "[Mybatis] Oracle CLOB 처리 ResultMap"
 excerpt: "Oracle에서 CLOB 타입을 처리하기 위해서는 resultMap 태그를 이용해서 타입을 지정해줘야 한다."
 categories: [Mybatis]
 date: 2017-09-04
